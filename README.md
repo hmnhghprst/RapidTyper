@@ -12,7 +12,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/hmnhghprst/RapidTyper/total) ![Issues](https://img.shields.io/github/issues/hmnhghprst/RapidTyper) ![License](https://img.shields.io/github/license/hmnhghprst/RapidTyper) 
+ ![Issues](https://img.shields.io/github/issues/hmnhghprst/RapidTyper) ![License](https://img.shields.io/github/license/hmnhghprst/RapidTyper) 
 
 ## Table Of Contents
 
